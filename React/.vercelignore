@@ -1,0 +1,12 @@
+node_modules
+.expo
+.expo-shared
+*.log
+.git
+.gitignore
+android
+ios
+.vscode
+.idea
+
+
